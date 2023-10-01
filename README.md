@@ -1,0 +1,1 @@
+This repository has the goal of providing many fun small challenges that can be completed in a small amount of time to test your programming skills
